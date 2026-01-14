@@ -1,0 +1,28 @@
+{
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction", "quickstart", "architecture"]
+    },
+    {
+      "group": "Core Platform",
+      "pages": [
+        "platform/plans-and-prices",
+        "platform/entitlements",
+        "platform/identity-protection"
+      ]
+    },
+    {
+      "group": "SDK Reference",
+      "pages": ["sdks/react-hooks", "sdks/node-client"]
+    },
+    {
+      "group": "Open Source Ecosystem",
+      "pages": [
+        "oss/introduction",
+        "oss/provider-protocol",
+        "oss/create-custom-provider"
+      ]
+    }
+  ]
+}
